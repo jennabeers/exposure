@@ -1144,7 +1144,7 @@ button, .button {
   border-style: solid;
   border-width: 0;
   cursor: pointer;
-  font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
+  font-family: "Raleway", Helvetica, Roboto, Arial, sans-serif;
   font-weight: normal;
   line-height: normal;
   margin: 0 0 1.25rem;
@@ -1160,12 +1160,12 @@ button, .button {
   padding-bottom: 1.0625rem;
   padding-left: 2rem;
   font-size: 1rem;
-  background-color: #008CBA;
+  background-color: #A4C0E5;
   border-color: #007095;
   color: #FFFFFF;
   transition: background-color 300ms ease-out; }
   button:hover, button:focus, .button:hover, .button:focus {
-    background-color: #007095; }
+    background-color: #000000; }
   button:hover, button:focus, .button:hover, .button:focus {
     color: #FFFFFF; }
   button.secondary, .button.secondary {
@@ -3623,17 +3623,17 @@ td {
 
 /* Default Link Styles */
 a {
-  color: #008CBA;
+  color: #000000;
   text-decoration: none;
   line-height: inherit; }
   a:hover, a:focus {
-    color: #0078a0; }
+    color: #A4C0E5; }
   a img {
     border: none; }
 
 /* Default paragraph styles */
 p {
-  font-family: inherit;
+  font-family: "Raleway", Helvetica, Roboto, Arial, sans-serif;
   font-weight: normal;
   font-size: 1rem;
   line-height: 1.6;
@@ -3649,8 +3649,8 @@ p {
 
 /* Default header styles */
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
-  font-weight: normal;
+  font-family: "Raleway", Helvetica, Roboto, Arial, sans-serif;
+  font-weight: medium;
   font-style: normal;
   color: #222222;
   text-rendering: optimizeLegibility;
