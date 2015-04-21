@@ -17,8 +17,6 @@ button, .button {
   position: relative;
   text-decoration: none;
   text-align: center;
-  -webkit-appearance: none;
-  -moz-appearance: none;
   border-radius: 0;
   display: inline-block;
   padding-top: 1rem;
